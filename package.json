@@ -11,10 +11,12 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
-    "mongodb": "^6.16.0"
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.15.1"
   },
   "devDependencies": {
     "@types/mongodb": "^4.0.6",
+    "@types/mongoose": "^5.11.96",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
